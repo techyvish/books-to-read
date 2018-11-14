@@ -5,7 +5,7 @@ GitHub because I can version-control this markdown file.
 
 - Sprint by Jake Knapp
 - Hooked by Nir Eyal
-- ~~The Hard Thing About Hard Things by Ben Horowitz~~
+- The Hard Thing About Hard Things by Ben Horowitz
 - The Effective Executive by Peter F. Drucker
 - Lean Analytics by Alistair Croll, Benjamin Yoskovitz
 - Crush It! by Gary Vaynerchuk
@@ -13,7 +13,7 @@ GitHub because I can version-control this markdown file.
 - The Innovator's Dilemma by Clayton M. Christensen
 - Shoe Dog by Phil Knight
 - Ego Is the Enemy by Ryan Holiday
-- ~~Creativity, Inc. by Ed Catmull, Amy Wallace~~
+- Creativity, Inc. by Ed Catmull, Amy Wallace
 - Hacking Growth by Sean Ellis, Morgan Brown
 - Business Adventures by John Brooks
 - Elon Musk by Ashlee Vance
@@ -22,16 +22,16 @@ GitHub because I can version-control this markdown file.
 - Peak by Chip Conley
 - The Leadership Challenge by James M. Kouzes, Barry Z. Posner
 - ~~Steve Jobs by Walter Isaacson~~
-- ~~The Design of Everyday Things by Donald A. Norman~~
+- The Design of Everyday Things by Donald A. Norman
 - The Four Steps to the Epiphany by Steve Blank
 - The Lean Product Playbook by Dan Olsen
 - High Output Management by Andrew S. Grove
-- ~~Zero to One by Peter Thiel Blake Masters~~
+- Zero to One by Peter Thiel Blake Masters
 - Essentialism by Greg McKeown
 - Built to Last by Jim Collins, Jerry I. Porras
 - Tribal Leadership by Dave Logan, John King, Halee Fischer-Wright
 - The Score Takes Care of Itself by Bill Walsh, Steve Jamison, Craig Walsh
-- ~~Sam Walton by Sam Walton~~
+- Sam Walton by Sam Walton
 - Don't Make Me Think, Revisited by Steve Krug
 - Turn the Ship Around! by L. David Marquet
 - The Lean Startup by Eric Ries
@@ -52,4 +52,4 @@ GitHub because I can version-control this markdown file.
 - Venture Deals by Brad Feld, Jason Mendelson
 - The Halo Effect by Phil Rosenzweig
 - The ONE Thing by Gary Keller, Jay Papasan
-- ~~The Subtle Art of Not Giving a F\*ck by Mark Manson~~
+- The Subtle Art of Not Giving a F\*ck by Mark Manson
